@@ -1,0 +1,7 @@
+shiny
+numpy
+matplotlib
+Delorean
+Loguru
+MechanicalSoup
+PyMongo
